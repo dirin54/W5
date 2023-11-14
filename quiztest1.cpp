@@ -3,5 +3,5 @@ using namespace std;
 
 int main(){
 
-    cout << "this is a practice for quiz-1";
+    cout << "this is a practice for quiz-1.1s";
 }
